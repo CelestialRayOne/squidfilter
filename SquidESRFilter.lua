@@ -6,7 +6,7 @@ return {
     reload = "{red}SquidFilter Beta-Audio v08f [{yellow}Reloaded{red}]",
     debug = false,
     audioPlayback = true,
-    allowOverrides = false,
+    allowOverrides = true,
     filter_titles = {"Leveling","Strict","Very-Strict","Uber-Strict"},
     filter_level = 4,
     rules = 
@@ -1128,6 +1128,7 @@ return {
 
     }
 }
+
 
 
 
